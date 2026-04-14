@@ -1,0 +1,16 @@
+{
+  "body": "",
+  "resource": "/{id}",
+  "path": "/id1",
+  "httpMethod": "GET",
+  "isBase64Encoded": false,
+  "queryStringParameters": {},
+  "pathParameters": { "id": "id1" },
+  "headers": {},
+  "requestContext": {
+    "accountId": "482311061943",
+    "stage": "Prod",
+    "httpMethod": "GET",
+    "resourcePath": "/{id}"
+  }
+}

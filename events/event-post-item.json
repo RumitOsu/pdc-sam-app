@@ -1,0 +1,16 @@
+{
+  "body": "{\"id\": \"id1\", \"name\": \"name1\"}",
+  "resource": "/",
+  "path": "/",
+  "httpMethod": "POST",
+  "isBase64Encoded": false,
+  "queryStringParameters": {},
+  "pathParameters": {},
+  "headers": { "Content-Type": "application/json" },
+  "requestContext": {
+    "accountId": "482311061943",
+    "stage": "Prod",
+    "httpMethod": "POST",
+    "resourcePath": "/"
+  }
+}
