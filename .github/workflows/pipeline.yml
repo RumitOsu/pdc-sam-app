@@ -45,7 +45,7 @@ jobs:
         run: sam validate --lint
 
       - name: sam build
-        run: sam build --use-container=false
+        run: sam build
 
       - name: Upload build artifact
         uses: actions/upload-artifact@v4
